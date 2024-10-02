@@ -1,3 +1,12 @@
+---
+name: 游戏bug反馈
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ### 问题描述：
 清楚描述你遇到的问题或反馈:
 
